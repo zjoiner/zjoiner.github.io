@@ -1,13 +1,17 @@
 body {
-    background-color: lightblue;
+    background-color: grey;
 }
 
 p {
-  color: pink;
-  
+  color: black;
+  margin: center;
 }
 
 h1 {
     color: navy;
     margin-left: 20px;
+}
+
+img {
+    margin: center;
 }
